@@ -8,13 +8,13 @@ Input the next train information you would like to use and the info will be stor
 
 #Requirements
 When adding trains, administrators should be able to submit the following:
-*Train Name
-*Destination
-*First Train Time -- in military time
-*Frequency -- in minutes
-*Calculate when the next train will arrive; this should be relative to the current time.
-*Users from many different machines must be able to view same train times.
-*Styling and theme are completely up to you. Get Creative!
+* Train Name
+* Destination
+* First Train Time -- in military time
+* Frequency -- in minutes
+* Calculate when the next train will arrive; this should be relative to the current time.
+* Users from many different machines must be able to view same train times.
+* Styling and theme are completely up to you. Get Creative!
 
 Technologies Used
 
